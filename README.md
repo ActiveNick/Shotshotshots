@@ -1,0 +1,2 @@
+# Shotshotshots
+SHOTSHOTSHOTS, by Stacey Mulcahy &amp; Nick Landry The SHOTSHOTSHOTS is a hardware &amp; software hack powered by Windows 10, Particle Photon, booze and Cortana! The purpose of this hack is to automate "buzzword bingo" drinking games by monitoring an audio feed (like an Apple keynote or some kind of speech) and listening for specific "keywords". When a keyword is detected, the app automatically triggers the SHOTSHOTSHOTS drink dispenser, pouring a shot and serving it to one of the participants.
